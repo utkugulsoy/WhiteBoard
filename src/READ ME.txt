@@ -1,3 +1,5 @@
-Student.jar and the hand.jpg must be in same directory
-Please do not  forget, starting Teacher.jar first
+A white board app working over LAN with a student and a teacher.
+
+Note:Student.jar and the hand.jpg must be in same directory
+
  
